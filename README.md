@@ -1,4 +1,4 @@
-# 🏠 Airbnb Bangkok Data Platform <br> (วิเคราะห์ ทำความเข้าใจ และวางกลยุทธ์ราคาที่พักในกรุงเทพฯ)
+# 🏙️ Airbnb Bangkok Insights <br> (วิเคราะห์ตลาดและผลกระทบของที่พักให้เช่าระยะสั้นในกรุงเทพฯ)
 
 This project is an end-to-end data analysis project exploring the dynamics and impacts of short-term rental listings on Airbnb in Bangkok, Thailand. This project aims to deliver actionable insights through data visualizations and in-depth analysis to support stakeholders in decision-making.
 
