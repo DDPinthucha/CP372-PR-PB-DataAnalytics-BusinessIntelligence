@@ -35,8 +35,9 @@ This project is an end-to-end data analysis project exploring the dynamics and i
 In this section, we explore key patterns in Bangkok's Airbnb market using data visualizations and interactive dashboards. Each analysis is designed to support business insights and strategic decisions.
 
 ---
-
-| ### 🗺️ Sheet 1 – Bangkok Listing Density |             
+ ### 🗺️ Sheet 1 – Bangkok Listing Density 
+ 
+| Sheet 1 |             
 |------------------------------------------------|
 | ![](EDA_Screenshot/Sheet%201%20-%20Bangkok%20Listing%20Density.png)  |
 
@@ -58,7 +59,10 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### ⭐ Sheet 2 – Listing Ratings by Category
 
-![Listing Ratings by Category](EDA_Screenshot/Sheet%202%20-%20Listing%20Ratings%20by%20Category.png)
+| Sheet 2 |             
+|------------------------------------------------|
+| ![](EDA_Screenshot/Sheet%202%20-%20Listing%20Ratings%20by%20Category.png)  |
+
 
 **Bar Chart** แสดงจำนวนที่พัก Airbnb ในแต่ละช่วงคะแนนรีวิว  
 
@@ -85,7 +89,9 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 📊 Sheet 3 - Avg Price per Property Type
 
-![Avgerage Price per Property Type](EDA_Screenshot/Sheet%203%20-%20Avg%20Price%20per%20Property%20Type.png)
+| Sheet 3 |             
+|------------------------------------------------|
+| ![](EDA_Screenshot/Sheet%203%20-%20Avg%20Price%20per%20Property%20Type.png) |
 
 **Bar Chart** แสดงราคาเฉลี่ยต่อคนของที่พักแต่ละประเภทในกรุงเทพฯ โดยจำแนกตาม Property Type (ประเภทของที่พัก)
 
@@ -105,7 +111,11 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 📊 Sheet 4 - Premium Neighbourhoods (Top 5 by Avg Price)
 
-![Premium Neighbourhoods](EDA_Screenshot/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png)
+
+| Sheet 4 |             
+|------------------------------------------------|
+| ![](EDA_Screenshot/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png) |
+
 
 **Bar Chart** แสดงว่า ย่านไหนในกรุงเทพฯ ที่มีราคาที่พักเฉลี่ยต่อคนสูงที่สุดบน Airbnb  
 ซึ่งสะท้อนถึงทำเลระดับพรีเมียมที่นักท่องเที่ยวอาจต้องจ่ายแพงกว่าปกติ
@@ -136,7 +146,9 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 📊 Sheet 5 - Top 10 Most Listed Neighbourhoods
 
-![Top 10 Neighbourhoods](EDA_Screenshot/Sheet%205%20-%20Top%2010%20Most%20Listed%20Areas.png)
+| Sheet 5 |             
+|------------------------------------------------|
+| ![](EDA_Screenshot/Sheet%205%20-%20Top%2010%20Most%20Listed%20Areas.png) |
 
 **Tree Map** แสดง 10 อันดับย่านในกรุงเทพฯ ที่มีจำนวนประกาศที่พัก (listings) บน Airbnb มากที่สุด
 
@@ -162,7 +174,9 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 🧾 Sheet 6: Average Price by Room Type
 
-![Average Price by Room Type](EDA_Screenshot/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png)
+| Sheet 6 |             
+|------------------------------------------------|
+| ![](EDA_Screenshot/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png) |
 
 **Horizontal Bar Chart** นี้แสดงราคาเฉลี่ยของที่พักแต่ละประเภท (Room Type) ในแต่ละย่าน (Neighbourhood) ของกรุงเทพฯ
 
@@ -191,7 +205,9 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 📈 Sheet 7: Average Monthly Price by Bucket
 
-![Average Monthly Price by Bucket](EDA_Screenshot/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png)
+| Sheet 7 |             
+|------------------------------------------------|
+| ![](EDA_Screenshot/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png) |
 
 **Line Chart** แสดงแนวโน้มราคาเฉลี่ยรายเดือน โดยแบ่งตาม Price Bucket:
 
@@ -247,7 +263,9 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 🛏️ Sheet 9: Minimum Nights Stay
 
-![Minimum Nights Stay](EDA_Screenshot/Sheet%209%20-%20Minimum%20Nights%20Stay.png)
+| Sheet 9 |             
+|------------------------------------------------|
+| ![](EDA_Screenshot/Sheet%209%20-%20Minimum%20Nights%20Stay.png) |
 
 **Bar Chart** แสดงจำนวนที่พักตามจำนวนคืนขั้นต่ำที่ต้องจอง
 
@@ -269,7 +287,9 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 📊 Sheet 10: Entire Homes by Neighbourhood
 
-![Entire Homes by Neighbourhood](EDA_Screenshot/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png)
+| Sheet 10 |             
+|------------------------------------------------|
+| ![](EDA_Screenshot/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png) |
 
 **Bar Chart** แสดงจำนวนรายการ `Entire home/apt` ในแต่ละย่านของกรุงเทพฯ  
 เพื่อดูว่าย่านไหนที่เจ้าของปล่อยเช่าทั้งหลังมากที่สุด
@@ -301,7 +321,9 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 📊 Sheet 11: Price vs. Review Activity
 
-![Price vs. Review Activity](EDA_Screenshot/Sheet%2011%20-%20Price%20vs.%20Review%20Activity.png)
+| Sheet 11 |             
+|------------------------------------------------|
+| ![](EDA_Screenshot/Sheet%2011%20-%20Price%20vs.%20Review%20Activity.png) |
 
 **Scatter Plot** แสดงความสัมพันธ์ระหว่าง **ราคาต่อคน** กับ **จำนวนรีวิวต่อเดือน**  
 เพื่อวิเคราะห์ว่า "ที่พักแบบไหนราคาเท่าไรถึงได้รับความนิยม?"
@@ -344,7 +366,9 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 🗺️ Sheet 12: Listing Density Heatmap
 
-![Listing Density Heatmap](EDA_Screenshot/Sheet%2012%20-%20Listings%20Density.png)
+| Sheet 12 |             
+|------------------------------------------------|
+| ![](EDA_Screenshot/Sheet%2012%20-%20Listings%20Density.png) |
 
 **Map** แสดงความหนาแน่นของที่พัก Airbnb  
 เพื่อดูว่าพื้นที่ใดมีความถี่ของ listing มาก-น้อย
