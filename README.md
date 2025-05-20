@@ -2,6 +2,13 @@
 
 This project is an end-to-end data analysis project exploring the dynamics and impacts of short-term rental listings on Airbnb in Bangkok, Thailand. This project aims to deliver actionable insights through data visualizations and in-depth analysis to support stakeholders in decision-making.
 
+## 👥 Authors
+
+- **Pinthucha Ruckpintuwat**  
+  `ID 65102010421`
+- **Parinya Boonpama**  
+  `ID 65102010119`  
+
 ## 🔗 Project Resources
 
 - 📄 [Project Canvas](https://www.canva.com/design/DAGmXjOI3l0/ziHAPmuQZ_6Li6dkWGW9RQ/edit?utm_content=DAGmXjOI3l0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
