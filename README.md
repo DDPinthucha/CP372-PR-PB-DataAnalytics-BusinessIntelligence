@@ -53,7 +53,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### ⭐ Sheet 2 – Listing Ratings by Category
 
-![Listing Ratings by Category](Sheet%202%20-%20Listing%20Ratings%20by%20Category.png)
+![Listing Ratings by Category](EDA_Screenshot/Sheet%202%20-%20Listing%20Ratings%20by%20Category.png)
 
 Bar Chart แสดงจำนวนที่พัก Airbnb ในแต่ละช่วงคะแนนรีวิว  
 
@@ -80,7 +80,7 @@ Bar Chart แสดงจำนวนที่พัก Airbnb ในแต่�
 
 ### 📊 Sheet 3 - Avg Price per Property Type
 
-![Avgerage Price per Property Type](Sheet%203%20-%20Avg%20Price%20per%20Property%20Type.png)
+![Avgerage Price per Property Type](EDA_Screenshot/Sheet%203%20-%20Avg%20Price%20per%20Property%20Type.png)
 
 กราฟแท่งแสดงราคาเฉลี่ยต่อคนของที่พักแต่ละประเภทในกรุงเทพฯ โดยจำแนกตาม Property Type (ประเภทของที่พัก)
 
@@ -99,7 +99,7 @@ Bar Chart แสดงจำนวนที่พัก Airbnb ในแต่�
 
 ### 📊 Sheet 4 - Premium Neighbourhoods (Top 5 by Avg Price)
 
-![Premium Neighbourhoods](Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png)
+![Premium Neighbourhoods](EDA_Screenshot/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png)
 
 กราฟแท่งแสดงว่า ย่านไหนในกรุงเทพฯ ที่มีราคาที่พักเฉลี่ยต่อคนสูงที่สุดบน Airbnb  
 ซึ่งสะท้อนถึงทำเลระดับพรีเมียมที่นักท่องเที่ยวอาจต้องจ่ายแพงกว่าปกติ
@@ -129,7 +129,7 @@ Bar Chart แสดงจำนวนที่พัก Airbnb ในแต่�
 
 ### 📊 Sheet 5 - Top 10 Most Listed Neighbourhoods
 
-![Top 10 Neighbourhoods](Sheet%205%20-%20Top%2010%20Most%20Listed%20Areas.png)
+![Top 10 Neighbourhoods](EDA_Screenshot/Sheet%205%20-%20Top%2010%20Most%20Listed%20Areas.png)
 
 Tree Map แสดง 10 อันดับย่านในกรุงเทพฯ ที่มีจำนวนประกาศที่พัก (listings) บน Airbnb มากที่สุด
 
@@ -154,7 +154,7 @@ Tree Map แสดง 10 อันดับย่านในกรุงเท�
 
 ###🧾 Sheet 6: Average Price by Room Type
 
-![Average Price by Room Type](Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png)
+![Average Price by Room Type](EDA_Screenshot/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png)
 
 horizontal bar chart นี้แสดงราคาเฉลี่ยของที่พักแต่ละประเภท (Room Type) ในแต่ละย่าน (Neighbourhood) ของกรุงเทพฯ
 
@@ -173,7 +173,7 @@ horizontal bar chart นี้แสดงราคาเฉลี่ยขอ�
 
 ### 📈 Sheet 7: Average Monthly Price by Bucket
 
-![Average Monthly Price by Bucket](EDA_Screenshot_in_Tableau/Sheet%207%20-%20Average%20Monthly%20Price%20by%20Bucket.png)
+![Average Monthly Price by Bucket]EDA_Screenshot/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png)
 
 Line chart แสดงแนวโน้มราคาเฉลี่ยรายเดือน โดยแบ่งตาม Price Bucket:
 
@@ -194,7 +194,7 @@ Line chart แสดงแนวโน้มราคาเฉลี่ยรา
 
 ### 🌟 Sheet 8: Review Scores by Category
 
-![Review Scores by Category](EDA_Screenshot_in_Tableau/Sheet%208%20-%20Review%20Scores%20by%20Category.png)
+![Review Scores by Category](EDA_Screenshot/Sheet%208%20-%20Review%20Scores%20by%20Category.png)
 
 Box + Jitter plot แสดงคะแนนรีวิวของผู้เข้าพักใน 4 หมวด:
 - 🕐 Check-in
@@ -215,7 +215,7 @@ Box + Jitter plot แสดงคะแนนรีวิวของผู้�
 
 ### 🛏️ Sheet 9: Minimum Nights Stay
 
-![Minimum Nights Stay](EDA_Screenshot_in_Tableau/Sheet%209%20-%20Minimum%20Nights%20Stay.png)
+![Minimum Nights Stay](EDA_Screenshot/Sheet%209%20-%20Minimum%20Nights%20Stay.png)
 
 Bar chart แสดงจำนวนที่พักตามจำนวนคืนขั้นต่ำที่ต้องจอง
 
@@ -236,6 +236,8 @@ Bar chart แสดงจำนวนที่พักตามจำนวน�
 ---
 
 ### 📊 Sheet 10: Entire Homes by Neighbourhood
+
+![Entire Homes by Neighbourhood](EDA_Screenshot/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png)
 
 กราฟแท่งแสดงจำนวนรายการ `Entire home/apt` ในแต่ละย่านของกรุงเทพฯ  
 เพื่อดูว่าย่านไหนที่เจ้าของปล่อยเช่าทั้งหลังมากที่สุด
@@ -265,6 +267,8 @@ Bar chart แสดงจำนวนที่พักตามจำนวน�
 ---
 
 ### 📊 Sheet 11: Price vs. Review Activity
+
+![Price vs. Review Activity](EDA_Screenshot/Sheet%2011%20-%20Price%20vs.%20Review%20Activity.png)
 
 Scatter Plot แสดงความสัมพันธ์ระหว่าง **ราคาต่อคน** กับ **จำนวนรีวิวต่อเดือน**  
 เพื่อวิเคราะห์ว่า "ที่พักแบบไหนราคาเท่าไรถึงได้รับความนิยม?"
@@ -307,6 +311,8 @@ Scatter Plot แสดงความสัมพันธ์ระหว่า�
 ---
 
 ### 🗺️ Sheet 12: Listing Density Heatmap
+
+![Listing Density Heatmap](EDA_Screenshot/Sheet%2012%20-%20Listings%20Density.png)
 
 แผนที่แสดงความหนาแน่นของที่พัก Airbnb  
 เพื่อดูว่าพื้นที่ใดมีความถี่ของ listing มาก-น้อย
