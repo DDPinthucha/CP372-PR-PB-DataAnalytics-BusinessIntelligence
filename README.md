@@ -26,12 +26,14 @@ This project is an end-to-end data analysis project exploring the dynamics and i
 - **Visualization**: Tableau Interactive Dashboard
 
 ## 📂 Project Structure
-  
+
+
+
+---
+
 ## 🧭 Exploratory Data Analysis (EDA)
 
 In this section, we explore key patterns in Bangkok's Airbnb market using data visualizations and interactive dashboards. Each analysis is designed to support business insights and strategic decisions.
-
----
 
 ### 🗺️ Sheet 1 – Bangkok Listing Density
 
@@ -51,7 +53,6 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 - **ส่งเสริมการกระจายตัวของที่พักไปยังพื้นที่รอบนอก**  
   สนับสนุนเจ้าของที่พักในย่านใหม่ๆ ด้วยการทำแคมเปญส่งเสริม เช่น โปรโมตสถานที่ท่องเที่ยวรอบนอก หรือให้ค่าคอมมิชชั่นพิเศษ
 
----
 
 ### ⭐ Sheet 2 – Listing Ratings by Category
 
@@ -78,7 +79,6 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
   สร้างแคมเปญ “ที่พักน้องใหม่” พร้อมราคาพิเศษหรือโบนัสสำหรับผู้เข้าพักที่รีวิว  
   ช่วยให้ที่พักใหม่มีโอกาสเข้าสู่ตลาดได้เร็วและแข่งขันได้มากขึ้น
 
----
 
 ### 📊 Sheet 3 - Avg Price per Property Type
 
