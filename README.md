@@ -36,7 +36,7 @@ This project is an end-to-end data analysis project exploring the dynamics and i
 
 
 
-## ⭐ Project Canvas
+## 📝 Project Canvas
 
 | Project Canvas |             
 |------------------------------------------------|
