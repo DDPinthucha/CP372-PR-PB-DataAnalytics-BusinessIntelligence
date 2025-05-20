@@ -38,7 +38,9 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 🗺️ Sheet 1 – Bangkok Listing Density
 
-![Distribution of Airbnb Listings](EDA_Screenshot/Sheet%201%20-%20Bangkok%20Listing%20Density.png)
+| Sheet 1 |             
+|------------------------------------------------|
+| ![](EDA_Screenshot/Sheet%201%20-%20Bangkok%20Listing%20Density.png)  |
 
 **Map ** แสดงการกระจายของที่พัก Airbnb ทั่วกรุงเทพฯ โดยใช้พิกัดจริงจากข้อมูล  
 - **Dot color** แทนประเภทห้องพัก:  
