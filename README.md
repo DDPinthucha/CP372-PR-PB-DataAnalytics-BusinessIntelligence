@@ -36,9 +36,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ---
 
-### 🗺️ Sheet 1 – Bangkok Listing Density
-
-| Sheet 1 |             
+| ### 🗺️ Sheet 1 – Bangkok Listing Density |             
 |------------------------------------------------|
 | ![](EDA_Screenshot/Sheet%201%20-%20Bangkok%20Listing%20Density.png)  |
 
