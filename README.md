@@ -152,7 +152,7 @@ Tree Map แสดง 10 อันดับย่านในกรุงเท�
 
 ---
 
-###🧾 Sheet 6: Average Price by Room Type
+### 🧾 Sheet 6: Average Price by Room Type
 
 ![Average Price by Room Type](EDA_Screenshot/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png)
 
@@ -171,7 +171,7 @@ horizontal bar chart นี้แสดงราคาเฉลี่ยขอ�
 
 ---
 
-###📈 Sheet 7: Average Monthly Price by Bucket
+### 📈 Sheet 7: Average Monthly Price by Bucket
 
 ![Average Monthly Price by Bucket]EDA_Screenshot/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png)
 
@@ -194,10 +194,18 @@ Line chart แสดงแนวโน้มราคาเฉลี่ยรา
 
 ### 🌟 Sheet 8: Review Scores by Category (เปรียบเทียบปี 2020 และ 2024)
 
-<div align="center">
-  <img src="EDA_Screenshot/Sheet%208%20-%20Review%20Scores%20by%20Category%20(2020).png" width="45%" alt="Review Scores 2020">
-  <img src="EDA_Screenshot/Sheet%208%20-%20Review%20Scores%20by%20Category%20(2024).png" width="45%" alt="Review Scores 2024">
-</div>
+<table>
+  <tr>
+    <td align="center" style="border:1px solid #ccc; padding:10px;">
+      <strong>📅 ปี 2020</strong><br>
+      <img src="EDA_Screenshot/Sheet%208%20-%20Review%20Scores%20by%20Category%20(2020).png" width="100%" alt="Review Scores 2020">
+    </td>
+    <td align="center" style="border:1px solid #ccc; padding:10px;">
+      <strong>📅 ปี 2024</strong><br>
+      <img src="EDA_Screenshot/Sheet%208%20-%20Review%20Scores%20by%20Category%20(2024).png" width="100%" alt="Review Scores 2024">
+    </td>
+  </tr>
+</table>
 
 ใช้ **Box + Jitter Plot** เพื่อเปรียบเทียบคะแนนรีวิวจากผู้เข้าพักระหว่างปี **2020** และ **2024** ครอบคลุม 4 หมวดหลัก:
 
