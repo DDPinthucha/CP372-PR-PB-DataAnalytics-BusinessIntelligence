@@ -389,10 +389,11 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 |------------------------------------------------|
 | ![](EDA_Screenshot/Sheet%201%20-%20Bangkok%20Listing%20Density.png)  |
 |------------------------------------------------|
+
 | Sheet 10 |             
 |------------------------------------------------|
 | ![](EDA_Screenshot/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png)  |
-
+|------------------------------------------------|
 
 ---
 
