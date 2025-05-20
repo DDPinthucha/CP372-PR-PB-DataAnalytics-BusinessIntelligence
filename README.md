@@ -4,7 +4,7 @@ This project is an end-to-end data analysis project exploring the dynamics and i
 
 ## 🔗 Project Resources
 
-- 📄 [Project Canvas (Canva)](https://www.canva.com/design/DAGmXjOI3l0/ziHAPmuQZ_6Li6dkWGW9RQ/edit?utm_content=DAGmXjOI3l0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 [Project Canvas](https://www.canva.com/design/DAGmXjOI3l0/ziHAPmuQZ_6Li6dkWGW9RQ/edit?utm_content=DAGmXjOI3l0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 🧮 [Data Preparation Notebook (Colab)](https://colab.research.google.com/drive/1-02Nbqbo4TElalLMlemI1xjEYGpQB7U3?usp=sharing)
 - 📊 [Tableau Public Dashboard](https://your-tableau-link-here)
 - 🎥 [Video Presentation](https://your-youtube-link-here)
