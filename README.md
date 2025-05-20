@@ -37,7 +37,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 แผนที่แสดงการกระจายของที่พัก Airbnb ทั่วกรุงเทพฯ โดยใช้พิกัดจริงจากข้อมูล  
 - **Dot color** แทนประเภทห้องพัก:  
-  🟦 Entire Home · 🟧 Hotel Room · 🟥 Private Room · 🟩Shared Room  
+  🟦 Entire Home **·** 🟧 Hotel Room **·** 🟥 Private Room **·** 🟩Shared Room  
 - สัญลักษณ์ ⭐ แสดงที่พักในเขตใจกลางเมือง เช่น วัฒนา, คลองเตย, ห้วยขวาง, ราชเทวี, สาทร  
 - ช่วยให้เห็นแนวโน้มว่าที่พักประเภทไหนกระจุกตัวอยู่ในเขตใดของเมือง
 
