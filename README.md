@@ -35,7 +35,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 🗺️ Sheet 1 – Bangkok Listing Density
 
-![Distribution of Airbnb Listings](./EDA Screenshot in Tableau/Sheet 1 - Bangkok Listing Density.png)
+![Distribution of Airbnb Listings](EDA Screenshot in Tableau/Sheet 1 - Bangkok Listing Density.png)
 
 A map showing the geographic distribution of Airbnb listings across Bangkok using real latitude and longitude coordinates.
 
