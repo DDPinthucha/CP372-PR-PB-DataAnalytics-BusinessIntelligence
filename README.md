@@ -412,6 +412,10 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ---
 
+# 📌 Airbnb Bangkok – In-Depth Analysis
+
+---
+
 # 📊 Airbnb Bangkok Insights – Insights & Recommendations
 
 ## ✅ Top 3 Actionable Insights
@@ -523,4 +527,6 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ---
 
-📎 *ข้อมูลทั้งหมดอ้างอิงจากการวิเคราะห์ใน Tableau Dashboard และผลลัพธ์จากการวิเคราะห์เชิงลึก (In-Depth Analysis)*
+# 🔍 Airbnb Bangkok – Visualization & Interactive Dashboard
+
+---
