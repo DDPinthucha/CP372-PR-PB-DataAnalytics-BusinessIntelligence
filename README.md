@@ -39,7 +39,7 @@ This project is an end-to-end data analysis project exploring the dynamics and i
 
 ## 🧭 Exploratory Data Analysis (EDA)
 
-In this section, we explore key patterns in Bangkok's Airbnb market using data visualizations and interactive dashboards. Each analysis is designed to support business insights and strategic decisions.
+In this section, we explore key patterns in Bangkok's Airbnb market using data visualizations and interactive dashboards. Each analysis (12 sheets) is designed to support business insights and strategic decisions.
 
 ---
  ### 🗺️ Sheet 1 – Bangkok Listing Density 
