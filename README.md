@@ -40,7 +40,7 @@ This project is an end-to-end data analysis project exploring the dynamics and i
 
 | Project Canvas |             
 |------------------------------------------------|
-| ![](ProjectCanvas_CP371_Pinthucha421_Parinya119.pdf)  |
+| ![](Project%20Canvas/ProjectCanvas_CP371_Pinthucha421_Parinya119.png)  |
 
 ## 🧭 Exploratory Data Analysis (EDA)
 
