@@ -13,10 +13,10 @@ This project is an end-to-end data analysis project exploring the dynamics and i
 
 - 📄 [Project Canvas](https://www.canva.com/design/DAGmXjOI3l0/ziHAPmuQZ_6Li6dkWGW9RQ/edit?utm_content=DAGmXjOI3l0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 🧮 [Data Preparation Notebook (Colab)](https://colab.research.google.com/drive/1-02Nbqbo4TElalLMlemI1xjEYGpQB7U3?usp=sharing)
-- 🔍 [Exploratory Data Analysis, EDA (Tableau)](https://your-tableau-link-here)
-- 💡 [In-Depth Analysis (Tableau)](https://your-tableau-link-here)
-- 📈 [Insights & Recommendations (Docs)](https://your-tableau-link-here)
-- 📊 [Visualization (Tableau)](https://your-tableau-link-here)
+- 🔍 [Exploratory Data Analysis, EDA (Tableau)](#-exploratory-data-analysis-eda)
+- 💡 [In-Depth Analysis (Tableau)](#-airbnb-bangkok-insights--in-depth-analysis)
+- 📈 [Insights & Recommendations](#-airbnb-bangkok-insights--insights--recommendations)
+- 📊 [Visualization (Tableau)](#-airbnb-bangkok--visualization--interactive-dashboard)
 - 🎥 [Video Presentation](https://your-youtube-link-here)
 
 ## 📌 Project Objectives
@@ -35,7 +35,50 @@ This project is an end-to-end data analysis project exploring the dynamics and i
 
 ## 📂 Project Structure
 
-
+```
+CP372-PR-PB-DataAnalytics-BusinessIntelligence/
+├── 📊 EDA & In-Depth Analysis & Visualization (tableau)/
+│    ├── 📄 EDA & In-Depth Analysis & Visualization (tableau).twbx
+│    ├── 🖼️ EDA (Screenshot)/
+│    │    ├── Sheet 1 - Bangkok Listing Density.png
+│    │    ├── Sheet 2 - Listing Ratings by Category.png
+│    │    ├── Sheet 3 - Avg Price per Property Type.png
+│    │    ├── Sheet 4 - Premium Neighbourhoods (Top 5 by Avg Price).png
+│    │    ├── Sheet 5 - Top 10 Most Listed Areas.png
+│    │    ├── Sheet 6 - Average Price by Room Type.png
+│    │    ├── Sheet 7 - Avg Monthly Price by Bucket (each year).png
+│    │    ├── Sheet 8 - Review Scores by Category (2020).png
+│    │    ├── Sheet 8 - Review Scores by Category (2024).png
+│    │    ├── Sheet 9 - Minimum Nights Stay.png
+│    │    ├── Sheet 10 - Entire Homes by Neighbourhood.png
+│    │    └── Sheet 11 - Price vs. Review Activity.png
+│    │    └── Sheet 12 - Listings Density.png
+│    ├── 🧠 In-Depth Analysis (Screenshot)/
+│    │    ├── Question1.png
+│    │    ├── Question2.png
+│    │    ├── Question3.png
+│    │    ├── Question4.png
+│    │    └── Question5.png
+│    └── 📊 Dashboard (Screenshot)/
+│         ├── (Overview) Airbnb Analysis Dashboard.png
+│         ├── (Price Analysis) Airbnb Analysis Dashboard.png
+│         └── (Community Impact) Airbnb’s Effect on Housing & Demand.png
+│
+├── 🧹 Data Preparation (colab)/
+│    └── 📓 data preparation.ipynb
+│
+├── 📂 Data/
+│    ├── 📁 cleaned data/
+│    │     └── bngkok_airbnb_cleaned_v5.csv
+│    └── 📁 raw data/
+│          └── listings.csv
+│
+├── 🧾 Project Canvas/
+│    ├── ProjectCanvas_CP371_Pinthucha421_Parinya119.png
+│    └── ProjectCanvas_CP371_Pinthucha421_Parinya119.pdf
+│
+└── 📘 README.md
+```
 
 ## 📝 Project Canvas
 
@@ -43,16 +86,18 @@ This project is an end-to-end data analysis project exploring the dynamics and i
 |------------------------------------------------|
 | ![](Project%20Canvas/ProjectCanvas_CP371_Pinthucha421_Parinya119.png)  |
 
-## 🧭 Exploratory Data Analysis (EDA)
+# 🧭 Exploratory Data Analysis (EDA)
 
 In this section, we explore key patterns in Bangkok's Airbnb market using data visualizations and interactive dashboards. Each analysis (12 sheets) is designed to support business insights and strategic decisions.
 
 ---
  ### 🗺️ Sheet 1 – Bangkok Listing Density 
+
+🔗 [Link to Sheet 1 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet1-BangkokListingDensity?publish=yes)
  
 | Sheet 1 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%201%20-%20Bangkok%20Listing%20Density.png)  |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%201%20-%20Bangkok%20Listing%20Density.png)  |
 
 **Map** แสดงการกระจายของที่พัก Airbnb ทั่วกรุงเทพฯ โดยใช้พิกัดจริงจากข้อมูล  
 - **Dot color** แทนประเภทห้องพัก:  
@@ -72,9 +117,11 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### ⭐ Sheet 2 – Listing Ratings by Category
 
+🔗 [Link to Sheet 2 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet2-ListingRatingsbyCategory?publish=yes)
+
 | Sheet 2 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%202%20-%20Listing%20Ratings%20by%20Category.png)  |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%202%20-%20Listing%20Ratings%20by%20Category.png)  |
 
 
 **Bar Chart** แสดงจำนวนที่พัก Airbnb ในแต่ละช่วงคะแนนรีวิว  
@@ -102,9 +149,11 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 📊 Sheet 3 - Avg Price per Property Type
 
+🔗 [Link to Sheet 3 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet3-AvgPriceperPropertyType?publish=yes)
+
 | Sheet 3 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%203%20-%20Avg%20Price%20per%20Property%20Type.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%203%20-%20Avg%20Price%20per%20Property%20Type.png) |
 
 **Bar Chart** แสดงราคาเฉลี่ยต่อคนของที่พักแต่ละประเภทในกรุงเทพฯ โดยจำแนกตาม Property Type (ประเภทของที่พัก)
 
@@ -124,10 +173,11 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 📊 Sheet 4 - Premium Neighbourhoods (Top 5 by Avg Price)
 
+🔗 [Link to Sheet 4 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet4-PremiumNeighbourhoodsTop5byAvgPrice?publish=yes)
 
 | Sheet 4 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png) |
 
 
 **Bar Chart** แสดงว่า ย่านไหนในกรุงเทพฯ ที่มีราคาที่พักเฉลี่ยต่อคนสูงที่สุดบน Airbnb  
@@ -159,9 +209,11 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 📊 Sheet 5 - Top 10 Most Listed Neighbourhoods
 
+🔗 [Link to Sheet 5 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet5-Top10MostListedAreas?publish=yes)
+
 | Sheet 5 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%205%20-%20Top%2010%20Most%20Listed%20Areas.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%205%20-%20Top%2010%20Most%20Listed%20Areas.png) |
 
 **Tree Map** แสดง 10 อันดับย่านในกรุงเทพฯ ที่มีจำนวนประกาศที่พัก (listings) บน Airbnb มากที่สุด
 
@@ -187,9 +239,11 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 🧾 Sheet 6: Average Price by Room Type
 
+🔗 [Link to Sheet 6 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet6-AveragePricebyRoomType?publish=yes)
+
 | Sheet 6 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png) |
 
 **Horizontal Bar Chart** นี้แสดงราคาเฉลี่ยของที่พักแต่ละประเภท (Room Type) ในแต่ละย่าน (Neighbourhood) ของกรุงเทพฯ
 
@@ -212,15 +266,17 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 **💡 Strategic Recommendations:**
 - วางแผนเลือกประเภทห้องให้เหมาะกับแต่ละย่าน
 - นักลงทุนเลือกลงทุนแบบ Entire Home ในย่านราคาสูง หรือ Private Room ในย่านยอดนิยม
-- นักท่องเที่ยวใช้วางแผนงบประมาณ
+- นักท่องเที่ยวสามารถใช้วางแผนงบประมาณได้
 
 ---
 
 ### 📈 Sheet 7: Average Monthly Price by Bucket
 
+🔗 [Link to Sheet 7 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet7-AvgMonthlyPricebyBucketeachyear?publish=yes)
+
 | Sheet 7 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png) |
 
 **Line Chart** แสดงแนวโน้มราคาเฉลี่ยรายเดือน โดยจำแนกตามระดับราคาที่พัก (Price Bucket) ตั้งแต่กลุ่ม Budget ไปจนถึง Luxury ซึ่งสะท้อนถึงพฤติกรรมการตั้งราคาตามฤดูกาลและกลุ่มเป้าหมาย
 
@@ -245,21 +301,23 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 - **Luxury**: ปรับราคาขึ้นในช่วง High Season (เช่น มีนาคม) เพื่อเพิ่มรายได้
 - **Budget & Affordable**: รักษาระดับราคาคงที่ สร้างจุดขายเรื่องราคาถูก
 - **Targeting**: แยกกลุ่มลูกค้าอย่างชัดเจน เช่น นักท่องเที่ยวระดับสูง vs. แบ็คแพ็คเกอร์
-- **Promotions**: เสนอโปรโมชันในช่วงราคาตก (Low Season) เพื่อกระตุ้นยอดจอง
+- **Promotions**: เสนอโปรโมชันในช่วงราคาตก (Low Season) เพื่อกระตุ้นยอดจองให้มากขึ้น
 
 ---
 
 ### 🌟 Sheet 8: Review Scores by Category (เปรียบเทียบปี 2020 และ 2024)
 
+🔗 [Link to Sheet 8 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet8-ReviewScoresbyCategory?publish=yes)
+
 <table>
   <tr>
     <td align="center" style="border:1px solid #ccc; padding:10px;">
       <strong>📅 ปี 2020</strong><br>
-      <img src="EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%208%20-%20Review%20Scores%20by%20Category%20(2020).png" width="100%" alt="Review Scores 2020">
+      <img src="EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%208%20-%20Review%20Scores%20by%20Category%20(2020).png" width="100%" alt="Review Scores 2020">
     </td>
     <td align="center" style="border:1px solid #ccc; padding:10px;">
       <strong>📅 ปี 2024</strong><br>
-      <img src="EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%208%20-%20Review%20Scores%20by%20Category%20(2024).png" width="100%" alt="Review Scores 2024">
+      <img src="EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%208%20-%20Review%20Scores%20by%20Category%20(2024).png" width="100%" alt="Review Scores 2024">
     </td>
   </tr>
 </table>
@@ -279,16 +337,18 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 ### 💡 Strategic Recommendations
 
 - รักษามาตรฐานบริการในหมวด **Communication** และ **Cleanliness** ที่ทำได้ดีในปี 2024
-- วิเคราะห์ปัญหาที่เกิดขึ้นในปี 2020 เช่น การ Check-in ที่ล่าช้าหรือข้อมูล Location ที่ไม่ชัดเจน และปรับปรุงต่อเนื่อง  
-- นำ **คะแนนรีวิวที่ดี** มาใช้เป็นจุดเด่นใน **กลยุทธ์การตลาด** เพื่อดึงดูดลูกค้าใหม่  
-- สำหรับพื้นที่ที่ยังได้คะแนน Location ต่ำ อาจพิจารณาปรับ **ราคาให้สอดคล้องกับความสะดวกในการเดินทาง**
+- วิเคราะห์ปัญหาที่เกิดขึ้นในปี 2020 เช่น การ Check-in ที่ล่าช้าหรือข้อมูล Location ที่ไม่ชัดเจน และควรที่จะปรับปรุงอย่างต่อเนื่อง  
+- นำ **คะแนนรีวิวที่ดี** มาใช้เป็นจุดเด่นของ **กลยุทธ์ทางการตลาด** เพื่อดึงดูดลูกค้าใหม่  
+- สำหรับพื้นที่ที่ยังได้คะแนน Location ต่ำ อาจต้องพิจารณาปรับ **ราคาให้สอดคล้องกับความสะดวกในการเดินทาง**
 ---
 
 ### 🛏️ Sheet 9: Minimum Nights Stay
 
+🔗 [Link to Sheet 9 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet9-MinimumNightsStay?publish=yes)
+
 | Sheet 9 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%209%20-%20Minimum%20Nights%20Stay.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%209%20-%20Minimum%20Nights%20Stay.png) |
 
 **Bar Chart** แสดงจำนวนที่พักตามจำนวนคืนขั้นต่ำที่ต้องจอง
 
@@ -310,9 +370,11 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 📊 Sheet 10: Entire Homes by Neighbourhood
 
+🔗 [Link to Sheet 10 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet10-EntireHomesbyNeighbourhood?publish=yes)
+
 | Sheet 10 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png) |
 
 **Bar Chart** แสดงจำนวนรายการ `Entire home/apt` ในแต่ละย่านของกรุงเทพฯ  
 เพื่อดูว่าย่านไหนที่เจ้าของปล่อยเช่าทั้งหลังมากที่สุด
@@ -337,16 +399,18 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 **💡 Strategic Recommendations:**
 - วิเคราะห์ความอิ่มตัวของตลาดแต่ละย่าน
-- ผู้วางแผนเมืองสามารถประเมินผลกระทบต่อชุมชน
-- นักท่องเที่ยวใช้เลือกทำเลที่เหมาะกับไลฟ์สไตล์
+- นักวางแผนเมืองหรือหน่วยงานกำกับดูแลที่เกี่ยวข้องสามารถประเมินผลกระทบต่อชุมชน
+- นักท่องเที่ยวสามารถใช้เลือกทำเลที่เหมาะกับไลฟ์สไตล์ของตนเองได้
 
 ---
 
 ### 📊 Sheet 11: Price vs. Review Activity
 
+🔗 [Link to Sheet 11 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet11-Pricevs_ReviewActivity?publish=yes)
+
 | Sheet 11 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2011%20-%20Price%20vs.%20Review%20Activity.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%2011%20-%20Price%20vs.%20Review%20Activity.png) |
 
 **Scatter Plot** แสดงความสัมพันธ์ระหว่าง **ราคาต่อคน** กับ **จำนวนรีวิวต่อเดือน**  
 เพื่อวิเคราะห์ว่า "ที่พักแบบไหนราคาเท่าไรถึงได้รับความนิยม?"
@@ -383,15 +447,17 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
   - `Private Room`: ควรตั้งราคาประหยัด
   - `Hotel Room`: ควรเพิ่มมูลค่าบริการให้สมราคา
   - `Entire Home`: เน้นความเป็นส่วนตัว ไม่ต้องลดราคา
-- ใช้รีวิว/เดือน เป็นตัวแทนของ **ดีมานด์**
+- ใช้รีวิว/เดือน เป็นตัวแทนของ **Demand**
 
 ---
 
 ### 🗺️ Sheet 12: Listing Density Heatmap
 
+🔗 [Link to Sheet 12 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet12-ListingsDensity?publish=yes)
+
 | Sheet 12 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2012%20-%20Listings%20Density.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%2012%20-%20Listings%20Density.png) |
 
 **Map** แสดงความหนาแน่นของที่พัก Airbnb  
 เพื่อดูว่าพื้นที่ใดมีความถี่ของ listing มาก-น้อย
@@ -417,15 +483,15 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 - รอบนอกเมือง เช่น นนทบุรี, สมุทรปราการ → เหมาะกับกลุ่มที่เน้นราคาถูก หรือทำเลเฉพาะ
 
 **💡 Strategic Recommendations:**
-- วิเคราะห์ทำเลที่ยังไม่อิ่มตัว → ขยายสาขาใหม่
-- วางกลยุทธ์ราคา → คู่แข่งมากต้องแข่งขันด้านคุณภาพ/ราคา
+- วิเคราะห์ทำเลที่ยังไม่อิ่มตัว ขยายที่พัก/สาขาใหม่
+- วางกลยุทธ์ราคา เมื่อเกิดคู่แข่งมากต้องแข่งขันด้านคุณภาพ/ราคา
 - ใช้ประกอบรายงานเพื่อเสนอต่อผู้บริหาร/นักลงทุน
 
 ---
 
 #  🧠 Airbnb Bangkok Insights – In-Depth Analysis
 
-การวิเคราะห์เชิงลึกนี้มุ่งเน้นไปที่การตอบคำถามสำคัญจากข้อมูล **Airbnb Listings ในกรุงเทพฯ** โดยใช้เทคนิคเชิงสถิติและการพยากรณ์เบื้องต้น เช่น **Correlation Analysis** และ **Linear Regression** เพื่อให้ได้ข้อเสนอเชิงกลยุทธ์ในการวิเคราะห์ตลาดที่พักระยะสั้น
+การวิเคราะห์เชิงลึกนี้มุ่งเน้นไปที่การตอบคำถามสำคัญจากข้อมูล **Airbnb Listings ในกรุงเทพฯ** โดยใช้เทคนิคเชิงสถิติและการพยากรณ์เบื้องต้น เช่น **Correlation Analysis** และ **Linear Regression** เพื่อให้ได้ข้อเสนอเชิงกลยุทธ์ในการวิเคราะห์ตลาดที่พักระยะสั้น โดยมีทั้งหมด 5 คำถาม ในการวิเคราะห์เชิงลึก
 
 ## 📌 1. ย่านใดในกรุงเทพฯ ที่มีศักยภาพในการปล่อยเช่าระยะสั้นสูงที่สุด?
 
@@ -452,6 +518,12 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 - Ratchathewi  
 - และอื่นๆ ตามลำดับ
 
+🔗 [Link to Question 1 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/1_?publish=yes)
+
+| Question 1 ย่านใดในกรุงเทพฯ ที่มีศักยภาพในการปล่อยเช่าระยะสั้นสูงที่สุด? |             
+|------------------------------------------------|
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/In-Depth%20Analysis%20(Screenshot)/Question1.png) |
+
 ---
 
 ## 📌 2: ปัจจัยใดมีอิทธิพลต่อราคาที่พักต่อคืนมากที่สุด?
@@ -471,15 +543,22 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 | Chart                                | คำอธิบาย                                      |
 |-------------------------------------|-----------------------------------------------|
-|**Scatter:** Price vs Accommodates      | ความสัมพันธ์ระหว่างขนาดห้องพักกับราคา        |
-|**Boxplot:** Price vs Room Type         | เปรียบเทียบราคาในแต่ละประเภทห้อง             |
-|**Scatter:** Price vs Review Score      | คุณภาพกับราคา                                  |
+|**Lines Chart:** Price vs Accommodates      | ความสัมพันธ์ระหว่างขนาดห้องพักกับราคา        |
+|**Lines Chart:** Price vs Bedrooms         | เปรียบเทียบราคากับจำนวนห้องนอน             |
+|**Lines Chart:** Price vs Review Score      | คุณภาพกับราคา                           |
+|**Bar Chart:** Price vs Room Type         | เปรียบเทียบราคาในแต่ละประเภทห้อง             |
 |**Bar Chart:** Avg Price by Is Central  | ทำเลใจกลางเมืองส่งผลต่อราคาหรือไม่            |
 
 ### ✅ สรุป:
 - `Accommodates` และ `Bedrooms` มีความสัมพันธ์เชิงบวกกับราคา (R² สูง)
 - `Entire home/apt` มีราคาสูงกว่าประเภทอื่นชัดเจน
 - ที่พักในพื้นที่ใจกลางเมือง (`is_central = 1`) มีราคาเฉลี่ยสูงกว่า
+
+🔗 [Link to Question 2 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/2_?publish=yes)
+
+| Question 2 ปัจจัยใดมีอิทธิพลต่อราคาที่พักต่อคืนมากที่สุด? |             
+|------------------------------------------------|
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/In-Depth%20Analysis%20(Screenshot)/Question2.png) |
 
 ---
 
@@ -507,7 +586,13 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 - สำหรับ ห้องพักรวม (Shared room) และ ห้องส่วนตัว (Private room):
   - ไม่มีนัยสำคัญทางสถิติ (P-value > 0.05)
   - จึงไม่สามารถสรุปได้ว่าจำนวนรีวิวต่อเดือนมีผลต่อราคาต่อคน
-  
+
+🔗 [Link to Question 3 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/3_?publish=yes)
+
+| Question 3 ราคาที่พักต่อคนสัมพันธ์กับจำนวนรีวิวต่อเดือนหรือไม่? |             
+|------------------------------------------------|
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/In-Depth%20Analysis%20(Screenshot)/Question3.png) |
+
 ---
 
 ## 📌 4: ย่านที่มีการปล่อยเช่าทั้งหลังมากที่สุด มีราคาเฉลี่ยต่อคืนเป็นอย่างไรเมื่อเทียบกับย่านอื่น?
@@ -529,8 +614,13 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 ### ✅ สรุป:
 - Vadhana, Khlong Toei, Huai Khwang มีจำนวน listings สูงสุด
 - แต่ราคาสูงสุดกลับอยู่ที่ **Sathon** แม้มี listings จำนวนน้อย
-- 👉 แสดงว่า **จำนวน listings ไม่ได้เป็นตัวชี้วัดราคาที่พัก**  
-  → ปัจจัยอื่นเช่นทำเล, คุณภาพ, ความพรีเมียมของที่พัก มีผลมากกว่า
+- แสดงว่า **จำนวน listings ไม่ได้เป็นตัวชี้วัดราคาที่พัก**  แต่มีปัจจัยอื่นเช่น ทำเล, คุณภาพ, ความพรีเมียมของที่พัก มีผลมากกว่า
+
+🔗 [Link to Question 4 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/4_?publish=yes)
+
+| Question 4 ย่านที่มีการปล่อยเช่าทั้งหลังมากที่สุด มีราคาเฉลี่ยต่อคืนเป็นอย่างไรเมื่อเทียบกับย่านอื่น? |             
+|------------------------------------------------|
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/In-Depth%20Analysis%20(Screenshot)/Question4.png) |
 
 ---
 
@@ -556,7 +646,13 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
   - ความขัดแย้งกับผู้อยู่อาศัยระยะยาว
 
 ### ✅ สรุป:
-> ย่าน Vadhana, Khlong Toei, และ Huai Khwang มีความเสี่ยงได้รับผลกระทบจาก STR สูง เนื่องจากมีจำนวน Entire Home/apt หนาแน่นและตั้งอยู่ใจกลางเมือง
+- ย่าน Vadhana, Khlong Toei, และ Huai Khwang มีความเสี่ยงได้รับผลกระทบจาก STR สูง เนื่องจากมีจำนวน Entire Home/apt หนาแน่นและตั้งอยู่ใจกลางเมือง
+
+🔗 [Link to Question 5 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/5_EntireHomeApartment?publish=yes)
+
+| Question 5 ย่านใดมี Entire Home/apt มากที่สุด และอาจได้รับผลกระทบจาก Short-Term Rentals (STR) สูงสุด? |             
+|------------------------------------------------|
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/In-Depth%20Analysis%20(Screenshot)/Question5.png) |
 
 ---
 
@@ -580,15 +676,15 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 | Sheet 1 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%201%20-%20Bangkok%20Listing%20Density.png)  |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%201%20-%20Bangkok%20Listing%20Density.png)  |
 
 | Sheet 10 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png)  |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png) |
 
 | Sheet 12 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2012%20-%20Listings%20Density.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%2012%20-%20Listings%20Density.png) |
 
 ---
 
@@ -605,7 +701,7 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 | Sheet 11 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2011%20-%20Price%20vs.%20Review%20Activity.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%2011%20-%20Price%20vs.%20Review%20Activity.png) |
 
 ---
 
@@ -624,15 +720,17 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 | Sheet 3 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%203%20-%20Avg%20Price%20per%20Property%20Type.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%203%20-%20Avg%20Price%20per%20Property%20Type.png) |
 
 | Sheet 4 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png) |
+
 
 | Sheet 6 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png) |
+
 
 ---
 
@@ -653,7 +751,7 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 | Sheet 7 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png) |
 
 ---
 
@@ -670,15 +768,15 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
   
 | Sheet 5 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%205%20-%20Top%2010%20Most%20Listed%20Areas.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%205%20-%20Top%2010%20Most%20Listed%20Areas.png) |
 
 | Sheet 10 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png)  |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png) |
 
 | Sheet 12 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2012%20-%20Listings%20Density.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%2012%20-%20Listings%20Density.png) |
 
 ---
 
@@ -694,15 +792,15 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
   
 | Sheet 4 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png) |
 
 | Sheet 6 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png) |
 
 | Sheet 7 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png) |
 
 ---
 
@@ -710,67 +808,73 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 ## ✅ Dashboard 1: Overview of Listings in Bangkok
 
+[📊 Tableau Public Dashboard 1 Link (Click Here)](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/OverviewAirbnbAnalysisDashboard?publish=yes)
+
 | Dashboard 1 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/Dashboard%20Screenshot/(Overview)%20Airbnb%20Analysis%20Dashboard.png)  |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/Dashboard%20(Screenshot)/(Overview)%20Airbnb%20Analysis%20Dashboard.png)  |
 
 **วัตถุประสงค์:** ให้ภาพรวมของจำนวน listings, ประเภทห้องพัก, การกระจายราคา และเขตที่มีการปล่อยเช่ามากที่สุด
 
 ### 🔍 รายละเอียด:
 - **แผนที่แสดงจำนวน listings ในแต่ละเขต (Neighbourhood)**
-- **Bar Chart แสดงจำนวน listings แยกตาม Room Type**
-- **Top 10 เขตที่มี listings มากที่สุด**
-- **Histogram ของราคาต่อคืน**
+- **Bar Chart แสดงจำนวนที่พัก Airbnb ในแต่ละช่วงคะแนนรีวิว**
+- **Bar Chart แสดงจำนวน listings แยกตาม Property Type**
+- **Bar Chart แสดงจำนวนย่านที่มีราคาที่พักเฉลี่ยต่อคนสูงที่สุด**
+- **Tree Map Top 10 เขตที่มี listings มากที่สุด**
 
 ### 📊 สรุปผลการวิเคราะห์:
-- Entire Home/Apartment และ Private Room เป็นประเภทห้องที่มีการปล่อยเช่ามากที่สุด
-- วัฒนา, คลองเตย และปทุมวัน เป็นเขตที่มีจำนวน listings สูงที่สุด
-- ราคาห้องพักส่วนใหญ่อยู่ในช่วง 500 – 1,500 บาท/คืน
-- ทำเลใจกลางเมืองเป็นจุดศูนย์กลางของ supply และ demand
+- Entire Home/Apartment เป็นประเภทห้องที่มีการปล่อยเช่ามากที่สุด
+- วัฒนา, คลองเตย และห้วยขวาง เป็นเขตที่มีจำนวน listings สูงที่สุด
+- บางเขตเช่น Dusit และ Sathorn มีราคาเฉลี่ยสูงกว่าพื้นที่อื่น เพราะเป็นย่านที่หรูหราที่สุด
+- มากกว่า 70% ของที่พักทั้งหมดได้คะแนนรีวิว 4.5+ สะท้อนว่าผู้เข้าพักส่วนใหญ่พึงพอใจ แต่ยังมีจำนวนที่พักไม่มีคะแนนรีวิวอยู่มากกว่า 5,000 รายการ ซึ่งอาจจะเป็นที่พักใหม่หรือยังไม่มีข้อมูลของที่พันนั้น
 
 ---
 
 ## ✅ Dashboard 2: Pricing Analysis
 
+[📊 Tableau Public Dashboard 2 Link (Click Here)](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/PriceAnalysisAirbnbAnalysisDashboard?publish=yes)
+
 | Dashboard 2 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/Dashboard%20Screenshot/(Price%20Analysis)%20Airbnb%20Analysis%20Dashboard.png)  |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/Dashboard%20(Screenshot)/(Price%20Analysis)%20Airbnb%20Analysis%20Dashboard.png)  |
 
 **วัตถุประสงค์:** วิเคราะห์ปัจจัยที่ส่งผลต่อราคาห้องพัก เช่น Room Type, Host Type, Minimum Nights และทำเล
 
 ### 🔍 รายละเอียด:
-- **Scatter Plot แสดงความสัมพันธ์ระหว่างราคากับจำนวนคืนขั้นต่ำ**
-- **Bar Chart เปรียบเทียบราคาเฉลี่ยตาม Room Type**
-- **Bar Chart เปรียบเทียบราคาเฉลี่ยตาม Host Type**
-- **Box Plot การกระจายราคาตามเขตพื้นที่**
+- **Line Chart แสดงแนวโน้มราคาเฉลี่ยรายเดือน โดยจำแนกตามระดับราคาที่พัก (Price Bucket)**
+- **Horizontal Bar Chart นี้แสดงราคาเฉลี่ยของที่พักแต่ละประเภท (Room Type)**
+- **Box + Jitter Plot เพื่อเปรียบเทียบคะแนนรีวิวจากผู้เข้าพัก**
 
 ### 📊 สรุปผลการวิเคราะห์:
 - Entire Home/Apartment มีราคาสูงสุดโดยเฉลี่ย
-- Host ที่เป็นผู้เช่าหลายห้อง (Professional Hosts) มักตั้งราคาสูงกว่าเจ้าของบ้านทั่วไป
-- เขตที่มีราคาสูง ได้แก่ ปทุมวัน วัฒนา และคลองเตย
-- Listings ที่มี Minimum Nights สูง มีแนวโน้มราคาสูงขึ้น
+- ราคาค่าที่พักระดับ Luxury และ Premium มีแนวโน้มเพิ่มขึ้นตลอดทั้งปี
+- พื้นที่ที่มีราคาสูง ได้แก่ ปทุมวัน และวัฒนา
+- คะแนนรีวิวเฉลี่ยในแต่ละหมวดอยู่ในระดับ 4 ขึ้นไป โดยเฉพาะในหมวด Cleanliness และ Communication
 
 ---
 
 ## ✅ Dashboard 3: Host and Review Analysis
 
+[📊 Tableau Public Dashboard 3 Link (Click Here)](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/CommunityImpactAirbnbsEffectonHousingDemand?publish=yes)
+
 | Dashboard 3 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/Dashboard%20Screenshot/(Community%20Impact)%20Airbnb’s%20Effect%20on%20Housing%20&%20Demand.png)  |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/Dashboard%20(Screenshot)/(Community%20Impact)%20Airbnb’s%20Effect%20on%20Housing%20&%20Demand.png)  |
 
 **วัตถุประสงค์:** ศึกษาลักษณะของผู้ให้บริการ (Hosts) และพฤติกรรมการรีวิวของผู้เข้าพัก
 
 ### 🔍 รายละเอียด:
-- **Bar Chart แสดงจำนวน listings ต่อ Host**
-- **Histogram แสดงจำนวนรีวิวต่อ listings**
-- **Top 10 เขตที่มีค่าเฉลี่ยรีวิวสูงสุด**
-- **แผนที่แสดง listings ที่มีรีวิวจำนวนมาก**
+- **Bar Chart แสดงจำนวนที่พักตามจำนวนคืนขั้นต่ำที่ต้องจอง**
+- **Bar Chart แสดงจำนวนรายการ Entire home/apt ในแต่ละย่านของกรุงเทพฯ**
+- **Map แสดงความหนาแน่นของที่พัก Airbnb**
+- **Scatter Plot แสดงความสัมพันธ์ระหว่าง ราคาต่อคน กับ จำนวนรีวิวต่อเดือน**
 
 ### 📊 สรุปผลการวิเคราะห์:
-- ส่วนใหญ่ Host มีแค่ 1–3 ห้องแสดงถึงการเป็นผู้ให้บริการรายย่อย
-- Listings ที่มีรีวิวจำนวนมากมักอยู่ในเขตใจกลางเมือง
-- คลองเตย วัฒนา และปทุมวัน เป็นเขตที่ได้รับรีวิวเฉลี่ยสูงที่สุด
-- Listings ที่มีจำนวนรีวิวมากบ่งชี้ถึงความนิยมและความน่าเชื่อถือ
+- พบว่า Host จำนวนมากมี listings มากกว่า 3 รายการ แสดงถึงแนวโน้มการให้บริการแบบเชิงพาณิชย์
+- Entire home/apt เป็นประเภทห้องพักที่ได้รับความนิยมสูงที่สุด
+- Listings ที่มีจำนวนรีวิวสูงมักแสดงถึงความน่าเชื่อถือ และอยู่ในพื้นที่ที่มีความต้องการสูง
+- ความสัมพันธ์ระหว่างราคาและรีวิวต่อเดือนมีลักษณะแตกต่างกันในแต่ละประเภทการเข้าพัก
 
 
 ---
