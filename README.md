@@ -461,10 +461,10 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 | Chart                                | คำอธิบาย                                      |
 |-------------------------------------|-----------------------------------------------|
-|** Scatter:** Price vs Accommodates      | ความสัมพันธ์ระหว่างขนาดห้องพักกับราคา        |
-|** Boxplot:** Price vs Room Type         | เปรียบเทียบราคาในแต่ละประเภทห้อง             |
-|** Scatter:** Price vs Review Score      | คุณภาพกับราคา                                  |
-|** Bar Chart:** Avg Price by Is Central  | ทำเลใจกลางเมืองส่งผลต่อราคาหรือไม่            |
+|**Scatter:** Price vs Accommodates      | ความสัมพันธ์ระหว่างขนาดห้องพักกับราคา        |
+|**Boxplot:** Price vs Room Type         | เปรียบเทียบราคาในแต่ละประเภทห้อง             |
+|**Scatter:** Price vs Review Score      | คุณภาพกับราคา                                  |
+|**Bar Chart:** Avg Price by Is Central  | ทำเลใจกลางเมืองส่งผลต่อราคาหรือไม่            |
 
 ### ✅ สรุป:
 - `Accommodates` และ `Bedrooms` มีความสัมพันธ์เชิงบวกกับราคา (R² สูง)
