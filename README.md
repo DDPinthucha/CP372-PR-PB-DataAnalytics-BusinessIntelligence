@@ -518,6 +518,8 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 - Ratchathewi  
 - และอื่นๆ ตามลำดับ
 
+🔗 [Link to Question 1 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/1_?publish=yes)
+
 | Question 1 ย่านใดในกรุงเทพฯ ที่มีศักยภาพในการปล่อยเช่าระยะสั้นสูงที่สุด? |             
 |------------------------------------------------|
 | ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/In-Depth%20Analysis%20(Screenshot)/Question1.png) |
@@ -551,6 +553,8 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 - `Entire home/apt` มีราคาสูงกว่าประเภทอื่นชัดเจน
 - ที่พักในพื้นที่ใจกลางเมือง (`is_central = 1`) มีราคาเฉลี่ยสูงกว่า
 
+🔗 [Link to Question 2 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/2_?publish=yes)
+
 | Question 2 ปัจจัยใดมีอิทธิพลต่อราคาที่พักต่อคืนมากที่สุด? |             
 |------------------------------------------------|
 | ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/In-Depth%20Analysis%20(Screenshot)/Question2.png) |
@@ -582,6 +586,8 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
   - ไม่มีนัยสำคัญทางสถิติ (P-value > 0.05)
   - จึงไม่สามารถสรุปได้ว่าจำนวนรีวิวต่อเดือนมีผลต่อราคาต่อคน
 
+🔗 [Link to Question 3 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/3_?publish=yes)
+
 | Question 3 ราคาที่พักต่อคนสัมพันธ์กับจำนวนรีวิวต่อเดือนหรือไม่? |             
 |------------------------------------------------|
 | ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/In-Depth%20Analysis%20(Screenshot)/Question3.png) |
@@ -609,6 +615,8 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 - แต่ราคาสูงสุดกลับอยู่ที่ **Sathon** แม้มี listings จำนวนน้อย
 - 👉 แสดงว่า **จำนวน listings ไม่ได้เป็นตัวชี้วัดราคาที่พัก**  
   → ปัจจัยอื่นเช่นทำเล, คุณภาพ, ความพรีเมียมของที่พัก มีผลมากกว่า
+
+🔗 [Link to Question 4 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/4_?publish=yes)
 
 | Question 4 ย่านที่มีการปล่อยเช่าทั้งหลังมากที่สุด มีราคาเฉลี่ยต่อคืนเป็นอย่างไรเมื่อเทียบกับย่านอื่น? |             
 |------------------------------------------------|
@@ -639,6 +647,8 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 ### ✅ สรุป:
 - ย่าน Vadhana, Khlong Toei, และ Huai Khwang มีความเสี่ยงได้รับผลกระทบจาก STR สูง เนื่องจากมีจำนวน Entire Home/apt หนาแน่นและตั้งอยู่ใจกลางเมือง
+
+🔗 [Link to Question 5 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/5_EntireHomeApartment?publish=yes)
 
 | Question 5 ย่านใดมี Entire Home/apt มากที่สุด และอาจได้รับผลกระทบจาก Short-Term Rentals (STR) สูงสุด? |             
 |------------------------------------------------|
