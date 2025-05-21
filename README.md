@@ -572,7 +572,7 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
   - ความขัดแย้งกับผู้อยู่อาศัยระยะยาว
 
 ### ✅ สรุป:
-> ย่าน Vadhana, Khlong Toei, และ Huai Khwang มีความเสี่ยงได้รับผลกระทบจาก STR สูง เนื่องจากมีจำนวน Entire Home/apt หนาแน่นและตั้งอยู่ใจกลางเมือง
+- ย่าน Vadhana, Khlong Toei, และ Huai Khwang มีความเสี่ยงได้รับผลกระทบจาก STR สูง เนื่องจากมีจำนวน Entire Home/apt หนาแน่นและตั้งอยู่ใจกลางเมือง
 
 | Question 5 ย่านใดมี Entire Home/apt มากที่สุด และอาจได้รับผลกระทบจาก Short-Term Rentals (STR) สูงสุด? |             
 |------------------------------------------------|
