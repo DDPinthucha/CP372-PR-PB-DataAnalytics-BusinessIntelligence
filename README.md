@@ -117,6 +117,8 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### ⭐ Sheet 2 – Listing Ratings by Category
 
+🔗 [Link to Sheet 2 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet2-ListingRatingsbyCategory?publish=yes)
+
 | Sheet 2 |             
 |------------------------------------------------|
 | ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%202%20-%20Listing%20Ratings%20by%20Category.png)  |
@@ -147,6 +149,8 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 📊 Sheet 3 - Avg Price per Property Type
 
+🔗 [Link to Sheet 3 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet3-AvgPriceperPropertyType?publish=yes)
+
 | Sheet 3 |             
 |------------------------------------------------|
 | ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%203%20-%20Avg%20Price%20per%20Property%20Type.png) |
@@ -169,6 +173,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 📊 Sheet 4 - Premium Neighbourhoods (Top 5 by Avg Price)
 
+🔗 [Link to Sheet 4 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet4-PremiumNeighbourhoodsTop5byAvgPrice?publish=yes)
 
 | Sheet 4 |             
 |------------------------------------------------|
@@ -204,6 +209,8 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 📊 Sheet 5 - Top 10 Most Listed Neighbourhoods
 
+🔗 [Link to Sheet 5 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet5-Top10MostListedAreas?publish=yes)
+
 | Sheet 5 |             
 |------------------------------------------------|
 | ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%205%20-%20Top%2010%20Most%20Listed%20Areas.png) |
@@ -231,6 +238,8 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 ---
 
 ### 🧾 Sheet 6: Average Price by Room Type
+
+🔗 [Link to Sheet 6 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet6-AveragePricebyRoomType?publish=yes)
 
 | Sheet 6 |             
 |------------------------------------------------|
@@ -262,6 +271,8 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 ---
 
 ### 📈 Sheet 7: Average Monthly Price by Bucket
+
+🔗 [Link to Sheet 7 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet7-AvgMonthlyPricebyBucketeachyear?publish=yes)
 
 | Sheet 7 |             
 |------------------------------------------------|
@@ -295,6 +306,8 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 ---
 
 ### 🌟 Sheet 8: Review Scores by Category (เปรียบเทียบปี 2020 และ 2024)
+
+🔗 [Link to Sheet 8 on Tableau Public](https://public.tableau.com/profile/api/publish/EDAIn-DepthAnalysisVisualizationtableau/Sheet8-ReviewScoresbyCategory)
 
 <table>
   <tr>
@@ -331,6 +344,8 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 🛏️ Sheet 9: Minimum Nights Stay
 
+🔗 [Link to Sheet 9 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet9-MinimumNightsStay?publish=yes)
+
 | Sheet 9 |             
 |------------------------------------------------|
 | ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%209%20-%20Minimum%20Nights%20Stay.png) |
@@ -354,6 +369,8 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 ---
 
 ### 📊 Sheet 10: Entire Homes by Neighbourhood
+
+🔗 [Link to Sheet 10 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet10-EntireHomesbyNeighbourhood?publish=yes)
 
 | Sheet 10 |             
 |------------------------------------------------|
@@ -388,6 +405,8 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 ---
 
 ### 📊 Sheet 11: Price vs. Review Activity
+
+🔗 [Link to Sheet 11 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet11-Pricevs_ReviewActivity?publish=yes)
 
 | Sheet 11 |             
 |------------------------------------------------|
@@ -433,6 +452,8 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 ---
 
 ### 🗺️ Sheet 12: Listing Density Heatmap
+
+🔗 [Link to Sheet 12 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet12-ListingsDensity?publish=yes)
 
 | Sheet 12 |             
 |------------------------------------------------|
