@@ -423,6 +423,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ```python
 Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 100)
+```
 
 ### 🧮 เหตุผลที่เลือกใช้แต่ละตัวแปร:
 
