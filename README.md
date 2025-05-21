@@ -643,15 +643,15 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 | Sheet 1 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%201%20-%20Bangkok%20Listing%20Density.png)  |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%201%20-%20Bangkok%20Listing%20Density.png)  |
 
 | Sheet 10 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png)  |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png) |
 
 | Sheet 12 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2012%20-%20Listings%20Density.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%2012%20-%20Listings%20Density.png) |
 
 ---
 
@@ -668,7 +668,7 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 | Sheet 11 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2011%20-%20Price%20vs.%20Review%20Activity.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%2011%20-%20Price%20vs.%20Review%20Activity.png) |
 
 ---
 
@@ -687,15 +687,17 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 | Sheet 3 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%203%20-%20Avg%20Price%20per%20Property%20Type.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%203%20-%20Avg%20Price%20per%20Property%20Type.png) |
 
 | Sheet 4 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png) |
+
 
 | Sheet 6 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png) |
+
 
 ---
 
@@ -716,7 +718,7 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 | Sheet 7 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png) |
 
 ---
 
@@ -733,15 +735,15 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
   
 | Sheet 5 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%205%20-%20Top%2010%20Most%20Listed%20Areas.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%205%20-%20Top%2010%20Most%20Listed%20Areas.png) |
 
 | Sheet 10 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png)  |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png) |
 
 | Sheet 12 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2012%20-%20Listings%20Density.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%2012%20-%20Listings%20Density.png) |
 
 ---
 
@@ -757,15 +759,15 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
   
 | Sheet 4 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png) |
 
 | Sheet 6 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png) |
 
 | Sheet 7 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png) |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/EDA%20(Screenshot)/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png) |
 
 ---
 
@@ -775,7 +777,7 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 | Dashboard 1 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/Dashboard%20Screenshot/(Overview)%20Airbnb%20Analysis%20Dashboard.png)  |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/Dashboard%20(Screenshot)/(Overview)%20Airbnb%20Analysis%20Dashboard.png)  |
 
 **วัตถุประสงค์:** ให้ภาพรวมของจำนวน listings, ประเภทห้องพัก, การกระจายราคา และเขตที่มีการปล่อยเช่ามากที่สุด
 
@@ -797,7 +799,7 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 | Dashboard 2 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/Dashboard%20Screenshot/(Price%20Analysis)%20Airbnb%20Analysis%20Dashboard.png)  |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/Dashboard%20(Screenshot)/(Price%20Analysis)%20Airbnb%20Analysis%20Dashboard.png)  |
 
 **วัตถุประสงค์:** วิเคราะห์ปัจจัยที่ส่งผลต่อราคาห้องพัก เช่น Room Type, Host Type, Minimum Nights และทำเล
 
@@ -819,7 +821,7 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 | Dashboard 3 |             
 |------------------------------------------------|
-| ![](EDA%20&%20Visualization%20(tableau)/Dashboard%20Screenshot/(Community%20Impact)%20Airbnb’s%20Effect%20on%20Housing%20&%20Demand.png)  |
+| ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/Dashboard%20(Screenshot)/(Community%20Impact)%20Airbnb’s%20Effect%20on%20Housing%20&%20Demand.png)  |
 
 **วัตถุประสงค์:** ศึกษาลักษณะของผู้ให้บริการ (Hosts) และพฤติกรรมการรีวิวของผู้เข้าพัก
 
