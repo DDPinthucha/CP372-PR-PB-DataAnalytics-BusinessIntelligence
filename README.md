@@ -545,8 +545,8 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 |-------------------------------------|-----------------------------------------------|
 |**Lines Chart:** Price vs Accommodates      | ความสัมพันธ์ระหว่างขนาดห้องพักกับราคา        |
 |**Lines Chart:** Price vs Bedrooms         | เปรียบเทียบราคากับจำนวนห้องนอน             |
-|**Bar Chart:** Price vs Room Type         | เปรียบเทียบราคาในแต่ละประเภทห้อง             |
 |**Lines Chart:** Price vs Review Score      | คุณภาพกับราคา                           |
+|**Bar Chart:** Price vs Room Type         | เปรียบเทียบราคาในแต่ละประเภทห้อง             |
 |**Bar Chart:** Avg Price by Is Central  | ทำเลใจกลางเมืองส่งผลต่อราคาหรือไม่            |
 
 ### ✅ สรุป:
