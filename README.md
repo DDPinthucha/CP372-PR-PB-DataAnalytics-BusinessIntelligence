@@ -447,7 +447,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
   - `Private Room`: ควรตั้งราคาประหยัด
   - `Hotel Room`: ควรเพิ่มมูลค่าบริการให้สมราคา
   - `Entire Home`: เน้นความเป็นส่วนตัว ไม่ต้องลดราคา
-- ใช้รีวิว/เดือน เป็นตัวแทนของ **ดีมานด์**
+- ใช้รีวิว/เดือน เป็นตัวแทนของ **Demand**
 
 ---
 
