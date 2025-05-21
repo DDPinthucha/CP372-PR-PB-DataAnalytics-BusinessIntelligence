@@ -775,6 +775,8 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 ## ✅ Dashboard 1: Overview of Listings in Bangkok
 
+[📊Tableau Public Dashboard 1 Link (Click Here)](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/OverviewAirbnbAnalysisDashboard?publish=yes)
+
 | Dashboard 1 |             
 |------------------------------------------------|
 | ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/Dashboard%20(Screenshot)/(Overview)%20Airbnb%20Analysis%20Dashboard.png)  |
@@ -797,6 +799,8 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 ## ✅ Dashboard 2: Pricing Analysis
 
+[📊Tableau Public Dashboard 2 Link (Click Here)]()
+
 | Dashboard 2 |             
 |------------------------------------------------|
 | ![](EDA%20&%20In-Depth%20Analysis%20&%20Visualization%20(tableau)/Dashboard%20(Screenshot)/(Price%20Analysis)%20Airbnb%20Analysis%20Dashboard.png)  |
@@ -818,6 +822,8 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 ---
 
 ## ✅ Dashboard 3: Host and Review Analysis
+
+[📊Tableau Public Dashboard 3 Link (Click Here)]()
 
 | Dashboard 3 |             
 |------------------------------------------------|
