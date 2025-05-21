@@ -13,7 +13,7 @@ This project is an end-to-end data analysis project exploring the dynamics and i
 
 - 📄 [Project Canvas](https://www.canva.com/design/DAGmXjOI3l0/ziHAPmuQZ_6Li6dkWGW9RQ/edit?utm_content=DAGmXjOI3l0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 🧮 [Data Preparation Notebook (Colab)](https://colab.research.google.com/drive/1-02Nbqbo4TElalLMlemI1xjEYGpQB7U3?usp=sharing)
-- 🔍 [Exploratory Data Analysis, EDA (Tableau)](#exploratory-data-analysis-(EDA))
+- 🔍 [Exploratory Data Analysis, EDA (Tableau)](#-exploratory-data-analysis-eda)
 - 💡 [In-Depth Analysis (Tableau)](#-airbnb-bangkok-insights--in-depth-analysis)
 - 📈 [Insights & Recommendations](#-airbnb-bangkok-insights--insights--recommendations)
 - 📊 [Visualization (Tableau)](#-airbnb-bangkok--visualization--interactive-dashboard)
