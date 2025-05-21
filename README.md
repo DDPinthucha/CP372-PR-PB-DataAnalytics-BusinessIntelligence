@@ -86,7 +86,7 @@ CP372-PR-PB-DataAnalytics-BusinessIntelligence/
 |------------------------------------------------|
 | ![](Project%20Canvas/ProjectCanvas_CP371_Pinthucha421_Parinya119.png)  |
 
-## 🧭 Exploratory Data Analysis (EDA)
+# 🧭 Exploratory Data Analysis (EDA)
 
 In this section, we explore key patterns in Bangkok's Airbnb market using data visualizations and interactive dashboards. Each analysis (12 sheets) is designed to support business insights and strategic decisions.
 
