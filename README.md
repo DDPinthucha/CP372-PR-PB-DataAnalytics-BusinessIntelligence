@@ -708,6 +708,10 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 ## ✅ Dashboard 1: Overview of Listings in Bangkok
 
+| Dashboard 1 |             
+|------------------------------------------------|
+| ![](EDA%20&%20Visualization%20(tableau)/Dashboard%20Screenshot/(Overview)%20Airbnb%20Analysis%20Dashboard.png)  |
+
 **วัตถุประสงค์:** ให้ภาพรวมของจำนวน listings, ประเภทห้องพัก, การกระจายราคา และเขตที่มีการปล่อยเช่ามากที่สุด
 
 ### 🔍 รายละเอียด:
@@ -726,6 +730,10 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 ## ✅ Dashboard 2: Pricing Analysis
 
+| Dashboard 2 |             
+|------------------------------------------------|
+| ![](EDA%20&%20Visualization%20(tableau)/Dashboard%20Screenshot/(Price%20Analysis)%20Airbnb%20Analysis%20Dashboard.png)  |
+
 **วัตถุประสงค์:** วิเคราะห์ปัจจัยที่ส่งผลต่อราคาห้องพัก เช่น Room Type, Host Type, Minimum Nights และทำเล
 
 ### 🔍 รายละเอียด:
@@ -743,6 +751,10 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 ---
 
 ## ✅ Dashboard 3: Host and Review Analysis
+
+| Dashboard 3 |             
+|------------------------------------------------|
+| ![](EDA%20&%20Visualization%20(tableau)/Dashboard%20Screenshot/(Community%20Impact)%20Airbnb’s%20Effect%20on%20Housing%20&%20Demand.png)  |
 
 **วัตถุประสงค์:** ศึกษาลักษณะของผู้ให้บริการ (Hosts) และพฤติกรรมการรีวิวของผู้เข้าพัก
 
