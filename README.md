@@ -15,7 +15,7 @@ This project is an end-to-end data analysis project exploring the dynamics and i
 - 🧮 [Data Preparation Notebook (Colab)](https://colab.research.google.com/drive/1-02Nbqbo4TElalLMlemI1xjEYGpQB7U3?usp=sharing)
 - 🔍 [Exploratory Data Analysis, EDA (Tableau)](https://your-tableau-link-here)
 - 💡 [In-Depth Analysis (Tableau)](https://your-tableau-link-here)
-- 📈 [Insights & Recommendations (Docs)](https://your-tableau-link-here)
+- 📈 [Insights & Recommendations (Docs)](#📊-Airbnb-Bangkok-Insights-–-Insights-&-Recommendations)
 - 📊 [Visualization (Tableau)](https://your-tableau-link-here)
 - 🎥 [Video Presentation](https://your-youtube-link-here)
 
