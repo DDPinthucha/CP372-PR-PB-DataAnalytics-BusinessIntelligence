@@ -35,6 +35,7 @@ This project is an end-to-end data analysis project exploring the dynamics and i
 
 ## 📂 Project Structure
 
+```
 CP372-PR-PB-DataAnalytics-BusinessIntelligence/
 ├── 📊 EDA & In-Depth Analysis & Visualization (tableau)/
 │ ├── 📄 EDA & In-Depth Analysis & Visualization (tableau).twbx
@@ -77,7 +78,7 @@ CP372-PR-PB-DataAnalytics-BusinessIntelligence/
 │ └── ProjectCanvas_CP371_Pinthucha421_Parinya119.pdf
 │
 └── 📘 README.md
-
+```
 
 ## 📝 Project Canvas
 
