@@ -35,6 +35,48 @@ This project is an end-to-end data analysis project exploring the dynamics and i
 
 ## 📂 Project Structure
 
+CP372-PR-PB-DataAnalytics-BusinessIntelligence/
+├── 📊 EDA & In-Depth Analysis & Visualization (tableau)/
+│ ├── 📄 EDA & In-Depth Analysis & Visualization (tableau).twbx
+│ ├── 🖼️ EDA (Screenshot)/
+│ │ ├── Sheet 1 - Bangkok Listing Density.png
+│ │ ├── Sheet 2 - Listing Ratings by Category.png
+│ │ ├── Sheet 3 - Avg Price per Property Type.png
+│ │ ├── Sheet 4 - Premium Neighbourhoods (Top 5 by Avg Price).png
+│ │ ├── Sheet 5 - Top 10 Most Listed Areas.png
+│ │ ├── Sheet 6 - Average Price by Room Type.png
+│ │ ├── Sheet 7 - Avg Monthly Price by Bucket (each year).png
+│ │ ├── Sheet 8 - Review Scores by Category (2020).png
+│ │ ├── Sheet 8 - Review Scores by Category (2024).png
+│ │ ├── Sheet 9 - Minimum Nights Stay.png
+│ │ ├── Sheet 10 - Entire Homes by Neighbourhood.png
+│ │ └── Sheet 11 - Price vs. Review Activity.png
+│ │ └── Sheet 12 - Listings Density.png
+│ ├── 🧠 In-Depth Analysis (Screenshot)/
+│ │ ├── Question1.png
+│ │ ├── Question2.png
+│ │ ├── Question3.png
+│ │ ├── Question4.png
+│ │ └── Question5.png
+│ └── 📊 Dashboard (Screenshot)/
+│ ├── (Overview) Airbnb Analysis Dashboard.png
+│ ├── (Price Analysis) Airbnb Analysis Dashboard.png
+│ └── (Community Impact) Airbnb’s Effect on Housing & Demand.png
+│
+├── 🧹 Data Preparation (colab)/
+│ └── 📓 data preparation.ipynb
+│
+├── 📂 Data/
+│ ├── 📁 cleaned data/
+│ │ └── bngkok_airbnb_cleaned_v5.csv
+│ └── 📁 raw data/
+│ └── listings.csv
+│
+├── 🧾 Project Canvas/
+│ ├── ProjectCanvas_CP371_Pinthucha421_Parinya119.png
+│ └── ProjectCanvas_CP371_Pinthucha421_Parinya119.pdf
+│
+└── 📘 README.md
 
 
 ## 📝 Project Canvas
