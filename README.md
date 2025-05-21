@@ -92,6 +92,8 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ---
  ### 🗺️ Sheet 1 – Bangkok Listing Density 
+
+🔗 [Link to Sheet 1 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet1-BangkokListingDensity?publish=yes)
  
 | Sheet 1 |             
 |------------------------------------------------|
