@@ -775,7 +775,7 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 ## ✅ Dashboard 1: Overview of Listings in Bangkok
 
-[📊Tableau Public Dashboard 1 Link (Click Here)](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/OverviewAirbnbAnalysisDashboard?publish=yes)
+[📊 Tableau Public Dashboard 1 Link (Click Here)](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/OverviewAirbnbAnalysisDashboard?publish=yes)
 
 | Dashboard 1 |             
 |------------------------------------------------|
@@ -800,7 +800,7 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 ## ✅ Dashboard 2: Pricing Analysis
 
-[📊Tableau Public Dashboard 2 Link (Click Here)]()
+[📊 Tableau Public Dashboard 2 Link (Click Here)](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/PriceAnalysisAirbnbAnalysisDashboard?publish=yes)
 
 | Dashboard 2 |             
 |------------------------------------------------|
@@ -824,7 +824,7 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 ## ✅ Dashboard 3: Host and Review Analysis
 
-[📊Tableau Public Dashboard 3 Link (Click Here)]()
+[📊 Tableau Public Dashboard 3 Link (Click Here)](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/CommunityImpactAirbnbsEffectonHousingDemand?publish=yes)
 
 | Dashboard 3 |             
 |------------------------------------------------|
