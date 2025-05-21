@@ -74,7 +74,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 | Sheet 2 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%202%20-%20Listing%20Ratings%20by%20Category.png)  |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%202%20-%20Listing%20Ratings%20by%20Category.png)  |
 
 
 **Bar Chart** แสดงจำนวนที่พัก Airbnb ในแต่ละช่วงคะแนนรีวิว  
@@ -104,7 +104,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 | Sheet 3 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%203%20-%20Avg%20Price%20per%20Property%20Type.png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%203%20-%20Avg%20Price%20per%20Property%20Type.png) |
 
 **Bar Chart** แสดงราคาเฉลี่ยต่อคนของที่พักแต่ละประเภทในกรุงเทพฯ โดยจำแนกตาม Property Type (ประเภทของที่พัก)
 
@@ -127,7 +127,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 | Sheet 4 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png) |
 
 
 **Bar Chart** แสดงว่า ย่านไหนในกรุงเทพฯ ที่มีราคาที่พักเฉลี่ยต่อคนสูงที่สุดบน Airbnb  
@@ -161,7 +161,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 | Sheet 5 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%205%20-%20Top%2010%20Most%20Listed%20Areas.png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%205%20-%20Top%2010%20Most%20Listed%20Areas.png) |
 
 **Tree Map** แสดง 10 อันดับย่านในกรุงเทพฯ ที่มีจำนวนประกาศที่พัก (listings) บน Airbnb มากที่สุด
 
@@ -189,7 +189,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 | Sheet 6 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png) |
 
 **Horizontal Bar Chart** นี้แสดงราคาเฉลี่ยของที่พักแต่ละประเภท (Room Type) ในแต่ละย่าน (Neighbourhood) ของกรุงเทพฯ
 
@@ -220,7 +220,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 | Sheet 7 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png) |
 
 **Line Chart** แสดงแนวโน้มราคาเฉลี่ยรายเดือน โดยจำแนกตามระดับราคาที่พัก (Price Bucket) ตั้งแต่กลุ่ม Budget ไปจนถึง Luxury ซึ่งสะท้อนถึงพฤติกรรมการตั้งราคาตามฤดูกาลและกลุ่มเป้าหมาย
 
@@ -255,11 +255,11 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
   <tr>
     <td align="center" style="border:1px solid #ccc; padding:10px;">
       <strong>📅 ปี 2020</strong><br>
-      <img src="EDA_Screenshot/Sheet%208%20-%20Review%20Scores%20by%20Category%20(2020).png" width="100%" alt="Review Scores 2020">
+      <img src="EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%208%20-%20Review%20Scores%20by%20Category%20(2020).png" width="100%" alt="Review Scores 2020">
     </td>
     <td align="center" style="border:1px solid #ccc; padding:10px;">
       <strong>📅 ปี 2024</strong><br>
-      <img src="EDA_Screenshot/Sheet%208%20-%20Review%20Scores%20by%20Category%20(2024).png" width="100%" alt="Review Scores 2024">
+      <img src="EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%208%20-%20Review%20Scores%20by%20Category%20(2024).png" width="100%" alt="Review Scores 2024">
     </td>
   </tr>
 </table>
@@ -288,7 +288,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 | Sheet 9 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%209%20-%20Minimum%20Nights%20Stay.png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%209%20-%20Minimum%20Nights%20Stay.png) |
 
 **Bar Chart** แสดงจำนวนที่พักตามจำนวนคืนขั้นต่ำที่ต้องจอง
 
@@ -312,7 +312,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 | Sheet 10 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png) |
 
 **Bar Chart** แสดงจำนวนรายการ `Entire home/apt` ในแต่ละย่านของกรุงเทพฯ  
 เพื่อดูว่าย่านไหนที่เจ้าของปล่อยเช่าทั้งหลังมากที่สุด
@@ -346,7 +346,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 | Sheet 11 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%2011%20-%20Price%20vs.%20Review%20Activity.png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2011%20-%20Price%20vs.%20Review%20Activity.png) |
 
 **Scatter Plot** แสดงความสัมพันธ์ระหว่าง **ราคาต่อคน** กับ **จำนวนรีวิวต่อเดือน**  
 เพื่อวิเคราะห์ว่า "ที่พักแบบไหนราคาเท่าไรถึงได้รับความนิยม?"
@@ -391,7 +391,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 | Sheet 12 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%2012%20-%20Listings%20Density.png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2012%20-%20Listings%20Density.png) |
 
 **Map** แสดงความหนาแน่นของที่พัก Airbnb  
 เพื่อดูว่าพื้นที่ใดมีความถี่ของ listing มาก-น้อย
@@ -578,15 +578,15 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 | Sheet 1 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%201%20-%20Bangkok%20Listing%20Density.png)  |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%201%20-%20Bangkok%20Listing%20Density.png)  |
 
 | Sheet 10 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png)  |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png)  |
 
 | Sheet 12 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%2012%20-%20Listings%20Density.png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2012%20-%20Listings%20Density.png) |
 
 ---
 
@@ -603,7 +603,7 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 | Sheet 11 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%2011%20-%20Price%20vs.%20Review%20Activity.png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2011%20-%20Price%20vs.%20Review%20Activity.png) |
 
 ---
 
@@ -622,15 +622,15 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 | Sheet 3 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%203%20-%20Avg%20Price%20per%20Property%20Type.png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%203%20-%20Avg%20Price%20per%20Property%20Type.png) |
 
 | Sheet 4 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png) |
 
 | Sheet 6 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png) |
 
 ---
 
@@ -651,7 +651,7 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
 
 | Sheet 7 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png) |
 
 ---
 
@@ -668,15 +668,15 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
   
 | Sheet 5 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%205%20-%20Top%2010%20Most%20Listed%20Areas.png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%205%20-%20Top%2010%20Most%20Listed%20Areas.png) |
 
 | Sheet 10 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png)  |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2010%20-%20Entire%20Homes%20by%20Neighbourhood.png)  |
 
 | Sheet 12 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%2012%20-%20Listings%20Density.png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%2012%20-%20Listings%20Density.png) |
 
 ---
 
@@ -692,15 +692,15 @@ Total_Score = (review_scores_rating * 2) + (number_of_reviews * 0.1) - (price / 
   
 | Sheet 4 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%204%20-%20Premium%20Neighbourhoods%20(Top%205%20by%20Avg%20Price).png) |
 
 | Sheet 6 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%20%206%20-%20Average%20Price%20by%20Room%20Type.png) |
 
 | Sheet 7 |             
 |------------------------------------------------|
-| ![](EDA_Screenshot/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png) |
+| ![](EDA%20&%20Visualization%20(tableau)/EDA_Screenshot/Sheet%207%20-%20%20Avg%20Monthly%20Price%20by%20Bucket%20(each%20year).png) |
 
 ---
 
