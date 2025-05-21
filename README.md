@@ -307,7 +307,7 @@ In this section, we explore key patterns in Bangkok's Airbnb market using data v
 
 ### 🌟 Sheet 8: Review Scores by Category (เปรียบเทียบปี 2020 และ 2024)
 
-🔗 [Link to Sheet 8 on Tableau Public](https://public.tableau.com/profile/api/publish/EDAIn-DepthAnalysisVisualizationtableau/Sheet8-ReviewScoresbyCategory)
+🔗 [Link to Sheet 8 on Tableau Public](https://public.tableau.com/app/profile/pinthucha.ruckpintuwat2585/viz/EDAIn-DepthAnalysisVisualizationtableau/Sheet8-ReviewScoresbyCategory?publish=yes)
 
 <table>
   <tr>
