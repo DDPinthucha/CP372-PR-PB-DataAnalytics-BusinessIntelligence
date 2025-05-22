@@ -17,7 +17,7 @@ This project is an end-to-end data analysis project exploring the dynamics and i
 - 💡 [In-Depth Analysis (Tableau)](#-airbnb-bangkok-insights--in-depth-analysis)
 - 📈 [Insights & Recommendations](#-airbnb-bangkok-insights--insights--recommendations)
 - 📊 [Visualization (Tableau)](#-airbnb-bangkok--visualization--interactive-dashboard)
-- 🎥 [Video Presentation](https://your-youtube-link-here)
+- 🎥 [Video Presentation](https://youtu.be/homWa8KuH88)
 
 ## 📌 Project Objectives
 
