@@ -5,7 +5,7 @@ This project is an end-to-end data analysis project exploring the dynamics and i
 ## 👥 Authors
 
 - **Pinthucha Ruckpintuwat**  
-  `ID 65102010421` `pinthucha.ruckpintuwat@g.swu.ac.th`
+  `ID 65102010421` `pinthucharuckpintuwat@gmail.com`
 - **Parinya Boonpama**  
   `ID 65102010119`  `parinya.boonpama@g.swu.ac.th`
 
