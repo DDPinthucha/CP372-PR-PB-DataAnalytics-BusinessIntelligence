@@ -6,8 +6,6 @@ This project is an end-to-end data analysis project exploring the dynamics and i
 
 - **Pinthucha Ruckpintuwat**  
   `ID 65102010421` `pinthucharuckpintuwat@gmail.com`
-- **Parinya Boonpama**  
-  `ID 65102010119`  `parinya.boonpama@g.swu.ac.th`
 
 ## 🔗 Project Resources
 
